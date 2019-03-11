@@ -1,0 +1,19 @@
+cd Desktop
+git clone https://github.com/DanteZM/L0.git
+cd L0
+git add Archivo de texto.docx
+git add Archivo.docx
+got commit -m "Punto 5 Lab 0"
+git commit -m "Punto 5 Lab 0"
+git push
+git config --global user.email "dnzamorano@uc.cl"
+git config --global user.name "DanteZM"
+git push
+git commit -m  "Punto 5 LAB 0"
+git push
+git pull
+git add *
+git commit -m "Segunda"
+git push
+git pull
+doskey/History
